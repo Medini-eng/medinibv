@@ -1,7 +1,7 @@
 # Medini B V
 
 # Educational Background
-Master of Technology in Robotic Engineering from Ramaiah Univeristy of Applied Sciences Banglore. 
+Master of Technology in Robotic Engineering from Ramaiah Univeristy of Applied Sciences Bengaluru. 
 # Core Competencies
 Programming languages: Python, C, C++, R, Embedded C, Halcon, Java(basics).
 Deep learning frameworks: PyTorch, HuggingFace Transformers, Tensorflow
