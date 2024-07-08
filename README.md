@@ -13,13 +13,14 @@ Data visualisation: Dash (Plotly), Seaborn, Matplotlib
 Version control systems: GitHub, GitLab
 Deep learning Domains: Computer Vision, Natural Language Processing, Deep Learning, Image Processing 
 Miscellaneous: Exploratory Data Analysis, Data Engineering, API Development, Graphical User Interface, Continuous Integration, Model Deployment, Web Application Development, LLM Finetuning, RAG
-Work Experience
+
+# Work Experience
 Working as Senior R&D Engineer at DLithe Consultancy Pvt. Ltd. Bengaluru:
 -> Leading innovation in AI, ML, Robotics, IoT, and Embedded systems.
 
 In the past, I worekd as Senior Robotic Engineer at Jyosh AI Solutions Pvt. Ltd. Pune and Junior Software Engineer at WaveAxis Technologies Pvt. Ltd. Bengaluru. 
 
-# Major Projects Worked in the prfessions
+# Contrbution to the Professional Projects
 
 # Surgical Robotic Arm for bisection at anatomy Lab (DLithe Consultancy) (Prototype Completed)
 • This was client project to be developed for the anatomy lab of one of esteemed institution for 
